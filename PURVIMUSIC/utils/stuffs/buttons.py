@@ -4,11 +4,11 @@ from pyrogram import Client, filters, enums
 class BUTTONS(object):
     ABUTTON = [
     [
-        InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/PURVI_SUPPORT"),
-        InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+gMy8Cp190ediNzZl")
+        InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/+zGIfuoGxMQNhYjNl"),
+        InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Wt82BqRQxA81MjZh")
     ],
     [
-        InlineKeyboardButton("˹ sᴏᴜʀᴄᴇ ˼", callback_data="gib_source"),
+        #InlineKeyboardButton("˹ sᴏᴜʀᴄᴇ ˼", callback_data="gib_source"),
         InlineKeyboardButton("˹ ʙᴀᴄᴋ ˼", callback_data=f"settingsback_helper")
     ]
     ]
