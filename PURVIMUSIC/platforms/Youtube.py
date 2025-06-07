@@ -19,7 +19,7 @@ import config
 
 
 API_URL = "https://api.thequickearn.xyz" 
-API_KEY = "30DxNexGenBots7fG9kL"
+API_KEY = "30DxNexGenBots262ce9"
 
 
 def cookie_txt_file():
