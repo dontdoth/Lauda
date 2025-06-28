@@ -10,7 +10,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/The-SigmaCoder/Jhatu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dontdoth/Lauda"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -32,7 +32,7 @@
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
 - Clone the repository by :
-`git clone https://github.com/TEAMPURVI/SONALI && cd SONALI`
+`git clone https://github.com/dontdoth/Lauda && cd Lauda`
 
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
